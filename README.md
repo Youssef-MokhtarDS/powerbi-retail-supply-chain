@@ -37,7 +37,3 @@ A comprehensive, executive-ready Power BI reporting solution built to analyze re
 * **Data Architecture:** Star Schema Model (`Sales` Fact Table, `Products` Dim Table, `State Mapping` Dim Table)
 * **Core DAX Implementations:**
 
-
-    SUM(Sales[Total Sales]), 
-    0
-)
