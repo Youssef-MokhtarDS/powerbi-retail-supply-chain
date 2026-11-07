@@ -34,13 +34,3 @@ Technical Stack & Data Engineering
 BI Platform: Microsoft Power BI Desktop
 Data Architecture: Star Schema Model (Sales Fact Table, Products Dim Table, State Mapping Dim Table)
 Core DAX Implementations:
-Repository Structure
-├── Whiskique_Executive_Summary.pbix    # Main Power BI Desktop Report File
-├── README.md                           # Project Documentation
-└── screenshots/                        # Dashboard visual previews
-    ├── executive_summary.png
-    ├── market_basket_analysis.png
-    └── shipping_metrics.png
-Data Architecture: Star Schema Model (Sales Fact Table, Products Dim Table, State Mapping Dim Table)
-
-Core DAX Implementations:
